@@ -1,3 +1,5 @@
+# passwort für debug tool: adminquiz
+
 # 🎮🎬 LJL Quiz: Gamer & Culture Challenge
 
 [![GitHub Pages](https://img.shields.io/github/pages/v/LJL-Quiz)](https://anibase-main.github.io/LJL-Quiz/)

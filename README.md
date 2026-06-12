@@ -1,10 +1,10 @@
 # 🎮🎬 LJL Quiz: Gamer & Culture Challenge
 
-##*Updates*
-website als Browser-App verfügbar
-
 ## 🚀 Über das Projekt
 **LJL Quiz** ist ein modernes, responsives und hochfunktionales Multiple-Choice-Quiz, das Wissen über drei riesige Bereiche abfragt: **Filme, Serien und Videospiele.** Es wurde mit Fokus auf eine erstklassige User Experience (UX) entwickelt.
+
+#Updates
+Quiz als Web-App verfügbar
 
 ## ✨ Hauptfunktionen (Was macht dieses Quiz so cool?)
 *   **🌐 Responsives Design:** Funktioniert perfekt auf Handy, Tablet und Desktop-PC.

@@ -31,6 +31,9 @@ Dieses Projekt ist eine **statische Single Page Application (SPA)**, bestehend a
 ### 💾 Dateistruktur Übersicht
 Die Bilder werden im Ordner `/Resources/images` gespeichert, der Pfad wird in JavaScript als `"Resources/images/[dateiname].jpg"` referenziert. Die `.github/workflows`-Ordner enthalten die Automatisierung für das Deployment.
 
+# passwort für debug tool: adminquiz (muss noch gefixed werden)
+debug tool gibt auch lösungen sowie bilder location an
+
 ## 📜 Lizenz und Beitrag
 Dieses Projekt steht unter der **GNU General Public License v3.0**. Jeder ist frei, den Code zu nutzen, anzupassen und weiterzuverbreiten.
 

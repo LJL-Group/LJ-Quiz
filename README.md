@@ -1,5 +1,5 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/LJL-Group/LJL-Quiz)
-![GitHub watchers](https://img.shields.io/github/watchers/LJL-Group/LJL-Quiz)
+![GitHub Repo stars](https://img.shields.io/github/stars/LJL-Group/LJ-Quiz)
+![GitHub watchers](https://img.shields.io/github/watchers/LJL-Group/LJ-Quiz)
 ![GitHub forks](https://img.shields.io/github/forks/LJL-Group/LJL-Quiz)
 [![Software License][ico-license]](LICENSE)
 
@@ -45,7 +45,7 @@ debug tool gibt auch lösungen sowie bilder location an
 ## 📜 Lizenz und Beitrag
 Dieses Projekt steht unter der **GNU General Public License v3.0**. Jeder ist frei, den Code zu nutzen, anzupassen und weiterzuverbreiten.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LJL-Group/LJL-Quiz&type=date&legend=top-left)](https://www.star-history.com/#xoureldeen/Vectras-VM-Android&AnBui2004/Vectras-VM-Emu-Android&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=LJ-Group/LJ-Quiz&type=date&legend=top-left)](https://www.star-history.com/#xoureldeen/Vectras-VM-Android&AnBui2004/Vectras-VM-Emu-Android&type=date&legend=top-left)
 
 **Bist du interessiert daran mitzumachen?**
 1.  Gabeln Sie dieses Repository (`Fork`).
@@ -54,6 +54,6 @@ Dieses Projekt steht unter der **GNU General Public License v3.0**. Jeder ist fr
 
 [ico-version]: https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white
 [ico-license]: https://img.shields.io/badge/License-GPL--3.0-blue.svg
-[link-repo]: https://github.com/LJL-Group/LJL-Quiz/
+[link-repo]: https://github.com/LJ-Group/LJ-Quiz/
 
 ---
